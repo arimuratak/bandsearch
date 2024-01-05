@@ -22,8 +22,4 @@ Band Search Program
 
 5. How to use
    1) Download the programs and install them in your PC.
-   2) Put your EBSD image in ‘Sample’ folder with folder config as shown in the pdf () (EBSD image formats of png, jpg and tif are available.):
-
-      Sample - folder name – EBSD image file (png, jpg or tif)
-                           ― Output (empty folder)
-
+   2) Put your EBSD image file and 'output' folder under ‘Sample’ folder with the strucure as shown in the pdf (https://github.com/arimuratak/bandsearch/blob/main/pictures/folder_structure.pdf). EBSD image formats of png, jpg and tif are available.

@@ -16,8 +16,8 @@ Band Search Program
 
 3.	Preparation
 
-  	OS : Windows10 or 11
-  	Environment of programming Python code: Anaconda, Python 3.10 or later
+  	OS : Windows10 or 11 /
+  	Environment of programming Python code: Anaconda, Python 3.10 or later /
   	Library : scikit-image, numpy, matplotlib
 
 5. How to use

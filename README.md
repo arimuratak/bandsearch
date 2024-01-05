@@ -9,8 +9,7 @@ Band Search Program
    EBSDBandSearch version 1.0 is a group of programs to execute band-search of EBSD image.
    Our EBSD analysis system separated by 2 steps as in below and this program is for Step 1.
 
-   Step 1: Band Search
-   Step 2：Indexing (here) (using output result Step 1)
+   Step 1: Band Search / Step 2：Indexing (here) (using output result Step 1)
 
    EBSDBandSearch program detects the bands from EBSD image, calculates combination (ρ,θ)(ρ:distance of band line from image origin, θ: angle of band line ) of all detected bands, convert them to spherical coordinate system which will be used in indexing program (Step 2) and outputs the result to the 2 text files (data0.txt and data1.txt).
 

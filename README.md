@@ -36,6 +36,7 @@ Band Search Program
    5) Change bansdsearch.bat and save it as shown in below:
 
       ・Folder name of anaconda to yours in below line.　“call C:\Users\?????\anaconda3\condabin\conda activate”
+      
       ・Folder (of EBSD mage) names in Sample older to yours in below line　“for %%j in (Sample, Sample\Zn, Sample\Ni) do 
 
 

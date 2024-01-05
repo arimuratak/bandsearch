@@ -22,8 +22,15 @@ Band Search Program
 
 5. How to use
    1) Download the programs and install them in your PC.
+      
    2) Put your EBSD image file and 'output' folder under ‘Sample’ folder with the strucure as shown in the pdf (https://github.com/arimuratak/bandsearch/blob/main/pictures/folder_structure.pdf). EBSD image formats of png, jpg and tif are available.
-   3) Put files of ebsd.py & file.py in same folder as EBSD image file. file.py (put EBSD image file path)　file = ???????/filename.png (or jog, tif)
-   4) ebsd.py (put information of EBSD image) PC0 = [PCx, PCy, PCz]: origin: upper left corner of the EBSD image, Circle = True or False (True: circle shape, False: rectangle shape)
+      
+   3) Put the file file.py in same folder as EBSD image file. (EBSD image file path)
+      
+      file = ???????/filename.png (or jog, tif)
+      
+   4) Put the file ebsd.py in same folder as EBSD image file. (information of EBSD image)
+
+      PC0 = [PCx, PCy, PCz]: origin: upper left corner of the EBSD image, Circle = True or False (True: circle shape, False: rectangle shape)
 
    5) Change bansdsearch.bat and save it as shown in below:

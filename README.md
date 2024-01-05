@@ -15,11 +15,12 @@ Band Search Program
    EBSDBandSearch program detects the bands from EBSD image, calculates combination (ρ,θ)(ρ:distance of band line from image origin, θ: angle of band line ) of all detected bands, convert them to spherical coordinate system which will be used in indexing program (Step 2) and outputs the result to the 2 text files (data0.txt and data1.txt).
 
 3.	Preparation
+   
    OS : Windows10 or 11
   	Environment of programming Python code: Anaconda, Python 3.10 or later
   	Library : scikit-image, numpy, matplotlib
 
-4. How to use
+5. How to use
    1) Download the programs and install them in your PC.
    2) Put your EBSD image in ‘Sample’ folder with folder config as shown in below: 
 EBSD image formats of png, jpg and tif are available.

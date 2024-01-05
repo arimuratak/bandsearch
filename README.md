@@ -26,6 +26,5 @@ Band Search Program
       EBSD image formats of png, jpg and tif are available.
 
       Sample - folder name – EBSD image file (png, jpg or tif)
-      
-                           - Output (empty folder)
+                           ― Output (empty folder)
 

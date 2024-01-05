@@ -23,3 +23,7 @@ Band Search Program
 5. How to use
    1) Download the programs and install them in your PC.
    2) Put your EBSD image file and 'output' folder under ‘Sample’ folder with the strucure as shown in the pdf (https://github.com/arimuratak/bandsearch/blob/main/pictures/folder_structure.pdf). EBSD image formats of png, jpg and tif are available.
+   3) Put files of ebsd.py & file.py in same folder as EBSD image file.
+      ・file.py (put EBSD image file path)　file = ???????/filename.png (or jog, tif)
+      ・ebsd.py (put information of EBSD image)
+   5) Change bansdsearch.bat and save it as shown in below:

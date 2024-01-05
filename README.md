@@ -45,7 +45,7 @@ Band Search Program
 
    7) In the command prompt, change the directory where bandsearch.bat exists.
    8) Execute bat file with the command ".\bandsearch.bat"
-   9) After log history display is ended, you can get the pdf which shows band search result in the same folder as EBSD image. (Refer the file Sample/Zn/ Zn.tif.out.pdf)
+   9) After log history display is ended, you can get the pdf which shows band search result in the same folder as EBSD image. (Refer the file )
    10) Data (data0.txt, data1.txt) for indexing in output in “output” folder. The difference of data0 & data1 is the case of use band width (0: No or 1: Yes) (Refer the files Sample/Zn/ output/data0.txt & Sample/Zn/ output/data1.txt)
 
 

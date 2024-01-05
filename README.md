@@ -35,14 +35,18 @@ Band Search Program
 
    5) Change bansdsearch.bat and save it as shown in below:
 
-      ・Folder name of anaconda to yours in the line of “call C:\Users\?????\anaconda3\condabin\conda activate”.
+      ・Folder name of anaconda to yours in the line of "call C:\Users\?????\anaconda3\condabin\conda activate".
       
-      ・Folder (of EBSD mage) names in Sample older to yours in the line of “for %%j in (Sample, Sample\Zn, Sample\Ni) do ".
+      ・Folder (of EBSD mage) names in Sample older to yours in the line of "for %%j in (Sample, Sample\Zn, Sample\Ni) do ".
 
    6) Change bandsearch0.bat and save it as shown in below:
 
-      ・Folder name of anaconda to yours in the line　of “C:\Users\?????\anaconda3\python.exe main.py”.
+      ・Folder name of anaconda to yours in the line　of "C:\Users\?????\anaconda3\python.exe main.py".
 
-   7) 
+   7) In the command prompt, change the directory where bandsearch.bat exists.
+   8) Execute bat file with the command ".\bandsearch.bat"
+   9) After log history display is ended, you can get the pdf which shows band search result in the same folder as EBSD image. (Refer the file Sample/Zn/ Zn.tif.out.pdf)
+   10) Data (data0.txt, data1.txt) for indexing in output in “output” folder. The difference of data0 & data1 is the case of use band width (0: No or 1: Yes) (Refer the files Sample/Zn/ output/data0.txt & Sample/Zn/ output/data1.txt)
+
 
 

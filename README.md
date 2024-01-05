@@ -20,7 +20,7 @@ Band Search Program
   	Library : scikit-image, numpy, matplotlib
 
 5. How to use
-   1) Download the programs and install them in your PC.
+   1) Download the programs and install them in your PC.(git clone https://github.com/arimuratak/bandsearch)
       
    2) Put your EBSD image file and 'output' folder under ‘Sample’ folder with the strucure as shown in the pdf (https://github.com/arimuratak/bandsearch/blob/main/pictures/folder_structure.pdf). EBSD image formats of png, jpg and tif are available.
       

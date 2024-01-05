@@ -34,3 +34,8 @@ Band Search Program
       PC0 = [PCx, PCy, PCz]: origin: upper left corner of the EBSD image, Circle = True or False (True: circle shape, False: rectangle shape)
 
    5) Change bansdsearch.bat and save it as shown in below:
+
+      ・Folder name of anaconda to yours in below line.　“call C:\Users\?????\anaconda3\condabin\conda activate”
+      ・Folder (of EBSD mage) names in Sample older to yours in below line　“for %%j in (Sample, Sample\Zn, Sample\Ni) do 
+
+
